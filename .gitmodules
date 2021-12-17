@@ -1,3 +1,6 @@
 [submodule "nyc22react"]
 	path = nyc22react
 	url = https://github.com/dcartist/nyc22react
+[submodule "nyc22api"]
+	path = nyc22api
+	url = https://github.com/dcartist/nyc22api
