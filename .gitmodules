@@ -4,3 +4,6 @@
 [submodule "nyc22api"]
 	path = nyc22api
 	url = https://github.com/dcartist/nyc22api
+[submodule "nyc22images"]
+	path = nyc22images
+	url = https://github.com/dcartist/nyc22images
