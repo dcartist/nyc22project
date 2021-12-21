@@ -1,6 +1,6 @@
-[submodule "nyc22dhango"]
-	path = nyc22dhango
-	url = https://github.com/dcartist/nyc22dhango
+[submodule "nyc22django"]
+	path = nyc22django
+	url = https://github.com/dcartist/nyc22django
 [submodule "nyc22react"]
 	path = nyc22react
 	url = https://github.com/dcartist/nyc22react
