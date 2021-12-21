@@ -7,3 +7,6 @@
 [submodule "nyc22images"]
 	path = nyc22images
 	url = https://github.com/dcartist/nyc22images
+[submodule "nyc22django"]
+	path = nyc22django
+	url = https://github.com/dcartist/nyc22dhango
