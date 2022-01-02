@@ -10,3 +10,6 @@
 [submodule "nyc22images"]
 	path = nyc22images
 	url = https://github.com/dcartist/nyc22images
+[submodule "reactv2"]
+	path = reactv2
+	url = https://github.com/dcartist/reactnyc
